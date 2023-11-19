@@ -1,0 +1,33 @@
+[
+  { "_id": "A1",
+    "courseId": "RS101",
+    "name": "A1 - ENV + HTML",
+    "dueDate": "September 18th, 2023 at 11:59pm"
+  },
+  { "_id": "A2",
+    "courseId": "RS101",
+    "name": "A2 - CSS + BOOTSTRAP",
+    "dueDate": "September 18th, 2023 at 11:59pm"
+  },
+  { "_id": "A3",
+    "courseId": "RS101",
+    "name": "A3 - JS + React",
+    "dueDate": "October 20th, 2023 at 11:59pm"
+  },
+  { "_id": "A4",
+    "courseId": "RS101",
+    "name": "A4 - STATE + REDUX",
+    "dueDate": "November 2nd, 2023 at 11:59pm"
+  },
+  { "_id": "A5",
+    "courseId": "RS101",
+    "name": "A5 - NODE + SESSION",
+    "dueDate": "November 16th, 2023 at 11:59pm"
+  },
+  { "_id": "A5",
+    "courseId": "RS101",
+    "name": "A6 - MONGO",
+    "dueDate": "November 30th, 2023 at 11:59pm"
+  }
+  
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "_id": 1,
+    "courseId": "RS101",
+    "name": "Resources",
+    "links": [
+      "Syllabus",
+      "Undergraduate Calendar",
+      "Graduate Calendar",
+      "Office Hours",
+      "Piazza",
+      "Project Requirements",
+      "Project Checklist",
+      "GITHUB",
+      "Jose's GitHub username: jannunzi"
+    ]
+  },
+  {
+    "_id": 2,
+    "courseId": "RS101",
+    "name": "Required Textbook",
+    "links": [
+      "Required Text - Full Stack Developer",
+      "Link to Web Support Form",
+      "Link to Student Customer Service Portal"
+    ]
+  },
+  {
+    "_id": 3,
+    "courseId": "RS101",
+    "name": "Week 0 - INTRO",
+    "links": [
+      "LEARNING OBJECTIVES",
+      "Introduction to the course",
+      "Learn what is Web Development",
+      "Creating a development environment",
+      "Creating a Web Application",
+      "Getting started with the 1st assignment",
+      "READING",
+      "Full Stack Developer - Chapter 1 - Introduction",
+      "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML",
+      "SLIDES"
+    ]
+  },
+  {
+    "_id": 4,
+    "courseId": "RS102",
+    "name": "Week 0 - INTRO",
+    "links": [
+      "LEARNING OBJECTIVES",
+      "Introduction to the course",
+      "Learn what is Web Development",
+      "Creating a development environment",
+      "Creating a Web Application",
+      "Getting started with the 1st assignment",
+      "READING",
+      "Full Stack Developer - Chapter 1 - Introduction",
+      "Full Stack Developer - Chapter 2 - Creating User Interfaces With HTML",
+      "SLIDES"
+    ]
+  }
+]
