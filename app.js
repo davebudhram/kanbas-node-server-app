@@ -10,7 +10,7 @@ import UserRoutes from "./users/routes.js";
 import session from "express-session";
 
 const CONNECTION_STRING = process.env.DB_CONNECTION_STRING;
-// mongoose.connect(CONNECTION_STRING);
+mongoose.connect(CONNECTION_STRING);
 const app = express()
 app.use(
   cors({
